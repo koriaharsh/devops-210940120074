@@ -1,5 +1,5 @@
 
-public class MyFile
+public class myFile
 {
 	public static void main(String[] args)
 	{
