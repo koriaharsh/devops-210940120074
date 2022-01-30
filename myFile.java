@@ -1,5 +1,3 @@
-import System.utils.Scanner
-import System.utils.lang
 
 public class MyClass
 {
